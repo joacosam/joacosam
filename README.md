@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/joacosam](https://github.com/joacosam)**
 
-- 😄 Chek my Portfolio: **[https://cslportfolio.web.app/portfolio/41](https://cslportfolio.web.app/portfolio/41)**
+- 😄 Chek my Portfolio: **[https://cslportfolio.web.app/portfolio/1  Target="_blank"](https://cslportfolio.web.app/portfolio/1)**
 
 - 💬 Ask me about **CSS**
 
