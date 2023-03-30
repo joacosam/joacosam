@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joacosam" alt="joacosam" /></a> </p>
 
-- 🔭 I’m currently working as an administrator at Lorenzo Carlos Urbano's rice mill.
-
-- 🌍 I live in San Salvador, Entre Ríos, Argentina.
+- 🌍 I live in Cordoba, Cordoba, Argentina.
 
 - 🥅 Goals for 2023: Start my career in web development.
 
-- 🌱 I’m about to start to Learn **Stack MERN**
+- 🌱 I’m about to start to Learn **Java**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/joacosam](https://github.com/joacosam)**
 
@@ -19,13 +17,13 @@
 
 - 💬 Ask me about **CSS**
 
-- 📫 How to reach me: **[carlossebastianlonrenzo@gmail.com](mailto:joacosam@gmail.com)**
+- 📫 How to reach me: **[joacosampieri@gmail.com](mailto:joacosam@gmail.com)**
 
-- ⚡ Like to **play Videogames, read, watch Anime, dance Tango**
+- ⚡ Like to **play Videogames, read, play the guitar(actually i'm musician)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/carlos-sebastian-367249175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/cinthya-dirisio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joaquin-sampieri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/joacosampieri" height="30" width="40" /></a>
 <a href="https://discord.gg/joacosam#2937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joacosam#2937" height="30" width="40" /></a>
 </p>
 
