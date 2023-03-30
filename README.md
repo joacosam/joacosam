@@ -15,8 +15,6 @@
 
 - 😄 Chek my Portfolio: **[https://cslportfolio.web.app/portfolio/41](https://cslportfolio.web.app/portfolio/41)**
 
-- 💬 Ask me about **CSS**
-
 - 📫 How to reach me: **[joacosampieri@gmail.com](mailto:joacosam@gmail.com)**
 
 - ⚡ Like to **play Videogames, read, play the guitar(actually i'm musician)**
